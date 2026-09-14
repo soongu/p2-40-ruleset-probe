@@ -4,4 +4,4 @@
 
 | 요청 | 보내는 것 |
 |---|---|
-| GET /api/shares | limit 10 |
+| GET /api/shares | limit 20 |
